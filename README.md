@@ -20,6 +20,7 @@ Dentro de esta carpeta, se van a añadir los archivos necesarios para que el maq
 
 - **Recuerden que el maquetado es Responsive.**
 - La estructura pueden hacerla como ustedes saben hacerla.
+- Desplegar la página que crearon en github pages / netlify o el servicio que deseen usar para deployar.
   
 ## 2. Teórica
 Usando sus conocimientos en HTML, CSS y Javascript, responda las siguientes preguntas
